@@ -1,0 +1,5 @@
+cd ~/Desktop/hello
+mv one uno
+ls
+cd uno
+ls
