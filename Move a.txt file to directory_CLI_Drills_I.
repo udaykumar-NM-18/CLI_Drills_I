@@ -1,0 +1,6 @@
+
+
+cd ~/Desktop/hello/uno
+mv a.txt two/
+cd two 
+ls
