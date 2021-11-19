@@ -1,0 +1,24 @@
+mkdir hello
+cd hello
+mkdir five 
+mkdir one
+cd five
+mkdir six
+cd six
+touch c.txt
+mkdir seven
+cd seven
+touch error.log
+
+cd ~/Desktop/hello
+cd one
+touch a.txt b.txt
+mkdir two
+cd two
+touch d.txt
+mkdir three
+cd three
+touch e.txt
+mkdir four
+cd four
+touch access.log
