@@ -1,0 +1,5 @@
+cd ~/Desktop/hello/one/two/three/four
+rm *.log
+
+cd ~/Desktop/hello/five/six/seven
+rm *.log
